@@ -133,7 +133,12 @@ background: url("../../assets/images/veh.jpg");
    
 
 }
+.span-badge
 
+{
+
+    font-size: 2rem;
+}
 
 .modal-body
 
