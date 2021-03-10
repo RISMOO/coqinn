@@ -113,6 +113,28 @@ p
 
 
 
+.modal2-body
+
+{
+
+background: url("../../assets/images/veh.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  box-shadow: 0px 0px 5px black;
+
+
+ 
+ 
+   
+   
+ 
+   
+
+}
+
+
 .modal-body
 
 {
@@ -133,6 +155,10 @@ background: url("https://images.pexels.com/photos/1391490/pexels-photo-1391490.j
    
 
 }
+
+
+
+
 
 
 #coq2

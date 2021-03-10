@@ -56,13 +56,13 @@ $("#coq").click(function(){
 
   $("#close1").click(function(){
     $("#coq").show();
-    $('#coq').attr('src','assets/images/coq.png');
+    $('#coq').attr('src','assets/images/c.png');
    
   });
 
  $("#close").click(function(){
     $("#coq2").show();
-    $('#coq2').attr('src','assets/images/coq.png')
+    $('#coq2').attr('src','assets/images/c.png')
   });
 
 
