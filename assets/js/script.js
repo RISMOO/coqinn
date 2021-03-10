@@ -2,11 +2,23 @@
   $(document).ready(function(){
     $(".guip").mouseover(function(){
       $("#coq").hide();
+
+
+
+      
     });
     $(".guip").mouseover(function(){
         $("#coq").show();
       });
 });
+
+
+$(function () {
+  $('.example-popover').popover({
+    container: 'body'
+  })
+})
+
 
 $('.carousel').carousel()
 
@@ -22,7 +34,6 @@ $(document).ready(function(){
       
 
 });
-
 
 
    $(document).ready(function () {
@@ -71,4 +82,26 @@ $(document).ready(function () {
 
 
 
+
+
+$("[data-toggle=popover]")
+.popover({html:true})
+
+
+
+
+
+$('#but').click(function () {
+  setTimeout(function () {
+    $(".popover").hide();
+  }, 5000);
+
+});
+
+$('#but').click(function () {
+  
+    $(".popover").show();
+ 
+
+});
 
