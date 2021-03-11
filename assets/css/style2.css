@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Pathway+Gothic+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 
 #myVideo
 
@@ -20,7 +20,8 @@
 h1
 {
 
-    font-family: 'Questrial', sans-serif;
+    font-family: 'Lobster', cursive;
+
 }
 
 img

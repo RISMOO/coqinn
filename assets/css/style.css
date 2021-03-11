@@ -13,7 +13,6 @@
     CSS INDEX
     ===================
 
-    1.COMMON
 	2.HEADER
     3.ABOUT
     4.SERVICES
@@ -28,10 +27,19 @@
 
 -----------------------------------------------------------------------------------*/
 /*===========================
-    1. COMMON css 
+ 
 ===========================*/
 @import url("https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800");
 @import url("https://fonts.googleapis.com/css2?family=Oswald:wght@300;400&family=Questrial&display=swap");
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Notable&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Notable&display=swap');
+
+
+
 
 body {
   font-family: "Poppins", sans-serif;
@@ -73,7 +81,7 @@ a {
   display: inline-block;
 }
 
-h1,
+
 h2,
 h3,
 h4,
@@ -87,6 +95,7 @@ h6 {
 
 h1 {
   font-size: 60px;
+  font-family: 'Notable', sans-serif;
 }
 
 h2 {
