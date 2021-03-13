@@ -134,6 +134,43 @@ background: url("../../assets/images/veh.jpg");
    
 
 }
+
+.parallax {
+    /* The image used */
+    background-image: url("../../assets/images/pizz1.jpg");
+  
+    /* Set a specific height */
+    min-height: 500px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+
+  
+.parallax1 {
+    /* The image used */
+    background-image: url("../../assets/images/pizza9.jpg");
+  
+    /* Set a specific height */
+    min-height: 500px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.jumbotron 
+
+{
+background-color:rgba(255, 255, 255, 0.315);
+
+}
 .span-badge
 
 {
@@ -201,3 +238,4 @@ background: url("https://images.pexels.com/photos/1391490/pexels-photo-1391490.j
 	transform: scale(1);
   
 }
+
